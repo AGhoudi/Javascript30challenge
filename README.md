@@ -17,5 +17,5 @@ J'ai crée un ensemble de 30 applications javascript basées sur le site: javasc
 
 <h2 align=center>🌐 Lien web du projet :</h2>
 
-<p align=center>Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester le jeu:<br />
 A venir...</p>
