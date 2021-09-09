@@ -1,4 +1,3 @@
-![Tan Gold Contemporary   Classy Outdoor Graduation Banner](https://user-images.githubusercontent.com/27373255/132767121-10730c9b-e349-4320-8108-777daca475e9.png)
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/132767121-10730c9b-e349-4320-8108-777daca475e9.png" alt="javascript 30"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer trente applications, en utilisant le langage javascript.</p>
